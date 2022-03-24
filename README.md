@@ -1,5 +1,5 @@
 - @serfersan
-- Interested in mathematical modelling and analysis, numerical methods.
+- Interested in mathematical modeling and analysis, numerical methods.
 - Currently learning biproportional representation to be applied on electoral math 
 - Looking to collaborate on inspiring projects related to sciences, data analysis and optimization
 - How to reach me: serfersan96@gmail.com
